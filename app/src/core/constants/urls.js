@@ -11,5 +11,6 @@ const URLS = {
   register: "customer/register",
   forgetPassword: "customer/forgot-password",
 };
+console.table(URLS)
 
 export default URLS;
